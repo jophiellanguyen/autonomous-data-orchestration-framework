@@ -157,3 +157,105 @@ Input:
 - Website analytics
 
 Pipeline:
+
+Output:
+
+Example:
+
+- Identify high-performing customer segments
+- Detect ineffective campaigns
+- Recommend resource allocation
+- Estimate business impact
+
+---
+
+# Human-Centered AI Approach
+
+ADOF is designed as an augmentation system.
+
+AI provides:
+
+- Data processing
+- Pattern discovery
+- Insight generation
+- Risk detection
+
+Humans provide:
+
+- Strategic decisions
+- Business context
+- Ethical judgment
+
+---
+
+# Research Questions
+
+- How can AI autonomously manage complex data workflows?
+- How can organizations improve trust in AI-generated insights?
+- How can data orchestration reduce decision-making friction?
+- How can AI bridge technical data systems and business strategy?
+
+---
+
+# Applications
+
+## SME Digital Transformation
+
+Supporting small and medium businesses with:
+
+- Data integration
+- Customer intelligence
+- Growth analytics
+
+## Research Management
+
+Supporting:
+
+- Data collection
+- Knowledge organization
+- Research workflows
+
+## Enterprise Intelligence
+
+Supporting:
+
+- Operational analytics
+- Strategic planning
+- Decision systems
+
+---
+
+# Project Management Integration
+
+ADOF incorporates project management principles:
+
+- Workflow governance
+- Quality control
+- Risk monitoring
+- Resource optimization
+
+---
+
+# Roadmap
+
+## Phase 1
+
+Framework architecture and orchestration design
+
+## Phase 2
+
+AI-powered quality gate prototype
+
+## Phase 3
+
+Autonomous data workflow agent
+
+## Phase 4
+
+Enterprise-scale intelligence platform
+
+---
+
+# Long-Term Vision
+
+ADOF aims to become an intelligent data operating layer that helps organizations move from fragmented information to trustworthy, autonomous, and human-centered decision intelligence.
