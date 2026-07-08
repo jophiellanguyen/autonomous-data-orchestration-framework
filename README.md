@@ -174,14 +174,15 @@ Insight Generation
 ↓
 
 Strategic Recommendations
-Output:
 
-Example:
+### Output
+
+The system generates:
 
 - Identify high-performing customer segments
 - Detect ineffective campaigns
 - Recommend resource allocation
-- Estimate business impact
+- Estimate potential business impact
 
 ---
 
