@@ -157,7 +157,23 @@ Input:
 - Website analytics
 
 Pipeline:
+Data Collection
 
+↓
+
+Data Quality Gates
+
+↓
+
+AI Data Analysis
+
+↓
+
+Insight Generation
+
+↓
+
+Strategic Recommendations
 Output:
 
 Example:
